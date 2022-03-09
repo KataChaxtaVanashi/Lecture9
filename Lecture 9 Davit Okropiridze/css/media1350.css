@@ -1,0 +1,21 @@
+@media (max-width: 1350px){
+	.topnav{
+		width: 90%;
+	}
+	.sec1{
+		width: 90%;
+	}
+
+}
+@media (max-width: 940px){
+	.hambar{
+	max-width: 30px;
+	width: 100%;
+}
+    .dropdown{
+    	display: block;
+    }
+    .navi{
+    	display: none;
+    }
+}
